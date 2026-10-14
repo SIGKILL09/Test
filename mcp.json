@@ -1,0 +1,12 @@
+
+{
+  "servers": {
+    "cisco-network": {
+      "type": "stdio",
+      "command": "py",
+      "args": [
+        "Your Python Script"
+      ]
+    }
+  }
+}
